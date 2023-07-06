@@ -1,1 +1,1 @@
-# Motor_Testing_with_Magnetic_Coupler
+# Magnetic_Coupler
